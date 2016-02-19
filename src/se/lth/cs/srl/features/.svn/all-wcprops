@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features
+END
+DepSubCatFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/DepSubCatFeature.java
+END
+AttrFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/AttrFeature.java
+END
+QDoubleChildSetFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/21/trunk/srl/src/se/lth/cs/srl/features/QDoubleChildSetFeature.java
+END
+PredDependentAttrFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/PredDependentAttrFeature.java
+END
+PredDependentBrown.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features/PredDependentBrown.java
+END
+QuadraticFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/QuadraticFeature.java
+END
+QSingleSetFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/srl/src/se/lth/cs/srl/features/QSingleSetFeature.java
+END
+FeatureFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/56/trunk/srl/src/se/lth/cs/srl/features/FeatureFile.java
+END
+Feature.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/Feature.java
+END
+FeatureName.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features/FeatureName.java
+END
+SingleFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/SingleFeature.java
+END
+ArgDependentFeatsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/ArgDependentFeatsFeature.java
+END
+FeatureGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features/FeatureGenerator.java
+END
+WordExtractor.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/WordExtractor.java
+END
+FeatureSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/FeatureSet.java
+END
+ArgDependentAttrFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/ArgDependentAttrFeature.java
+END
+SetFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/SetFeature.java
+END
+PathFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/PathFeature.java
+END
+ArgDependentBrown.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features/ArgDependentBrown.java
+END
+ChildSetFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/ChildSetFeature.java
+END
+FeatsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/FeatsFeature.java
+END
+QSingleSingleFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21/trunk/srl/src/se/lth/cs/srl/features/QSingleSingleFeature.java
+END
+PredDependentFeatsFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/PredDependentFeatsFeature.java
+END
+PositionFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/PositionFeature.java
+END
+DumpFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/features/DumpFeature.java
+END
+TargetWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/features/TargetWord.java
+END

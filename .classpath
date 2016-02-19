@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/liblinear-1.51-with-deps.jar"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/opennlp-tools-1.5.2-incubating.jar"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/anna-3.3.jar"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/seg.jar"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/whatswrong-0.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/Users/samuelchiu/workspace_SR1/mate-tools-srl/lib/stanford-parser.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

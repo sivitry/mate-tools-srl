@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl
+END
+Parse.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/18/trunk/srl/src/se/lth/cs/srl/Parse.java
+END
+SemanticRoleLabeler.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/48/trunk/srl/src/se/lth/cs/srl/SemanticRoleLabeler.java
+END
+CompletePipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/CompletePipeline.java
+END
+Learn.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/Learn.java
+END

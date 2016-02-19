@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/61/trunk/srl/src/se/lth/cs/srl/util/scorer
+END
+AbstractScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/61/trunk/srl/src/se/lth/cs/srl/util/scorer/AbstractScorer.java
+END
+PredicateIdentificationScorer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/61/trunk/srl/src/se/lth/cs/srl/util/scorer/PredicateIdentificationScorer.java
+END

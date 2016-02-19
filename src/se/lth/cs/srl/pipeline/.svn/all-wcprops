@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/pipeline
+END
+PredicateIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/PredicateIdentifier.java
+END
+Pipeline.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/pipeline/Pipeline.java
+END
+ArgumentIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/ArgumentIdentifier.java
+END
+ArgumentClassifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/ArgumentClassifier.java
+END
+Reranker.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/pipeline/Reranker.java
+END
+PredicateDisambiguator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/pipeline/PredicateDisambiguator.java
+END
+Step.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/Step.java
+END
+ArgumentStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/ArgumentStep.java
+END
+AbstractStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/AbstractStep.java
+END
+PipelineStep.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/pipeline/PipelineStep.java
+END

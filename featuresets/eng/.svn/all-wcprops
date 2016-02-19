@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/15/trunk/srl/featuresets/eng
+END
+ai.feats
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/srl/featuresets/eng/ai.feats
+END
+pd.feats
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/srl/featuresets/eng/pd.feats
+END
+ac.feats
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/srl/featuresets/eng/ac.feats
+END
+pi.feats
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/trunk/srl/featuresets/eng/pi.feats
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages
+END
+Swedish.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/Swedish.java
+END
+English.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/English.java
+END
+German.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/German.java
+END
+Chinese.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/Chinese.java
+END
+NullLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/NullLanguage.java
+END
+AbstractDummyLanguage.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/languages/AbstractDummyLanguage.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/Language.java
+END
+French.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/French.java
+END
+Spanish.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/languages/Spanish.java
+END

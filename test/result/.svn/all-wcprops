@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/13/trunk/srl/test/result
+END
+predparentfeats.features
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/srl/test/result/predparentfeats.features
+END
+argfeats_leftpos.features
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/trunk/srl/test/result/argfeats_leftpos.features
+END
+argfeats.features
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/srl/test/result/argfeats.features
+END
+childdepposset2.features
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/srl/test/result/childdepposset2.features
+END
+childdepposset4.features
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/srl/test/result/childdepposset4.features
+END
+position_predfeats.features
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/srl/test/result/position_predfeats.features
+END
+argpos_childdepset.features
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/srl/test/result/argpos_childdepset.features
+END
+position.features
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/srl/test/result/position.features
+END
+leftdeppos.features
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/srl/test/result/leftdeppos.features
+END
+childdepposset.features
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/srl/test/result/childdepposset.features
+END
+depsubcat.features
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/trunk/srl/test/result/depsubcat.features
+END
+eng_1_0.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/eng_1_0.cals
+END
+pospath.features
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/13/trunk/srl/test/result/pospath.features
+END
+argfeats_position.features
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/13/trunk/srl/test/result/argfeats_position.features
+END
+eng_4_1.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/eng_4_1.cals
+END
+depsubcat_predparentfeats.features
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/trunk/srl/test/result/depsubcat_predparentfeats.features
+END
+ger_2_0.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/ger_2_0.cals
+END
+predparentpos.features
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/trunk/srl/test/result/predparentpos.features
+END
+childdepset.features
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/13/trunk/srl/test/result/childdepset.features
+END
+deprelpath.features
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/srl/test/result/deprelpath.features
+END
+childdepposset3.features
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/trunk/srl/test/result/childdepposset3.features
+END
+childdepset_predword.features
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/13/trunk/srl/test/result/childdepset_predword.features
+END
+argdeprel.features
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/trunk/srl/test/result/argdeprel.features
+END
+eng_0_0.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/eng_0_0.cals
+END
+deprelpath_position.features
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13/trunk/srl/test/result/deprelpath_position.features
+END
+predlemma_predword.features
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/13/trunk/srl/test/result/predlemma_predword.features
+END
+predfeats.features
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/13/trunk/srl/test/result/predfeats.features
+END
+eng_1_3.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/eng_1_3.cals
+END
+ger_3_0.cals
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/trunk/srl/test/result/ger_3_0.cals
+END
+argpos_depsubcat.features
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/trunk/srl/test/result/argpos_depsubcat.features
+END
+predword.features
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/trunk/srl/test/result/predword.features
+END

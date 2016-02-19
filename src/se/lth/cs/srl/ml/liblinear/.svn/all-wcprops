@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/ml/liblinear
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/ml/liblinear/Label.java
+END
+LibLinearLearningProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/169/trunk/srl/src/se/lth/cs/srl/ml/liblinear/LibLinearLearningProblem.java
+END
+LibLinearModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/ml/liblinear/LibLinearModel.java
+END
+WeightVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/ml/liblinear/WeightVector.java
+END

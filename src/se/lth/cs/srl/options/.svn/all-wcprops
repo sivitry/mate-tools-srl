@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/options
+END
+Options.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/169/trunk/srl/src/se/lth/cs/srl/options/Options.java
+END
+HttpOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/options/HttpOptions.java
+END
+FeatureSelectionOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/61/trunk/srl/src/se/lth/cs/srl/options/FeatureSelectionOptions.java
+END
+LearnOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/239/trunk/srl/src/se/lth/cs/srl/options/LearnOptions.java
+END
+FullPipelineOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/options/FullPipelineOptions.java
+END
+ParseOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/srl/src/se/lth/cs/srl/options/ParseOptions.java
+END
+CompletePipelineCMDLineOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/88/trunk/srl/src/se/lth/cs/srl/options/CompletePipelineCMDLineOptions.java
+END

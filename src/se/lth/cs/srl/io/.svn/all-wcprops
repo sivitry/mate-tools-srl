@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/81/trunk/srl/src/se/lth/cs/srl/io
+END
+DepsOnlyCoNLL09Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/59/trunk/srl/src/se/lth/cs/srl/io/DepsOnlyCoNLL09Reader.java
+END
+SentenceWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/io/SentenceWriter.java
+END
+SRLOnlyCoNLL09Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/59/trunk/srl/src/se/lth/cs/srl/io/SRLOnlyCoNLL09Reader.java
+END
+AbstractCoNLL09Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/81/trunk/srl/src/se/lth/cs/srl/io/AbstractCoNLL09Reader.java
+END
+SentenceReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/srl/src/se/lth/cs/srl/io/SentenceReader.java
+END
+AllCoNLL09Reader.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/59/trunk/srl/src/se/lth/cs/srl/io/AllCoNLL09Reader.java
+END
+CoNLL09Writer.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/io/CoNLL09Writer.java
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/239/trunk/srl/lib
+END
+LL-LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/trunk/srl/lib/LL-LICENSE.txt
+END
+stanford-parser.jar
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/239/trunk/srl/lib/stanford-parser.jar
+END
+opennlp-tools-1.5.2-incubating.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/229/trunk/srl/lib/opennlp-tools-1.5.2-incubating.jar
+END
+anna-3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/225/trunk/srl/lib/anna-3.3.jar
+END
+seg.jar
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/239/trunk/srl/lib/seg.jar
+END
+APACHE-LICENSE-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/229/trunk/srl/lib/APACHE-LICENSE-2.0.txt
+END
+whatswrong-0.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/124/trunk/srl/lib/whatswrong-0.2.3.jar
+END
+opennlp-maxent-3.0.2-incubating.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/229/trunk/srl/lib/opennlp-maxent-3.0.2-incubating.jar
+END
+LIBNOTES
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/239/trunk/srl/lib/LIBNOTES
+END
+liblinear-1.51-with-deps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/trunk/srl/lib/liblinear-1.51-with-deps.jar
+END
+GPL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/17/trunk/srl/lib/GPL.txt
+END

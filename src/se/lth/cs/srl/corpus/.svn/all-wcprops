@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/corpus
+END
+Yield.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/18/trunk/srl/src/se/lth/cs/srl/corpus/Yield.java
+END
+ArgMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/12/trunk/srl/src/se/lth/cs/srl/corpus/ArgMap.java
+END
+Word.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/corpus/Word.java
+END
+PredicateReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/corpus/PredicateReference.java
+END
+Predicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/230/trunk/srl/src/se/lth/cs/srl/corpus/Predicate.java
+END
+Sentence.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/244/trunk/srl/src/se/lth/cs/srl/corpus/Sentence.java
+END
